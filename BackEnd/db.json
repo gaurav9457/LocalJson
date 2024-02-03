@@ -1,0 +1,65 @@
+
+{
+  "posts": [
+    {
+      "FName": "Gaurav",    
+      "LastName": "Dhamankar",
+      "Email": "g@gmail.com",
+      "Password": "1234",
+      "Address": "Pune",
+      "City": "Pune",
+      "Zip": "411062",
+      "State": "Maharashtra",
+      "image": "https://static.vecteezy.com/system/resources/previews/005/544/718/non_2x/profile-icon-design-free-vector.jpg",
+      "id": 1
+    },
+    {
+      "FName": "Mohit",
+      "LastName": "Khodse",
+      "Email": "k@gmail.com",
+      "Password": "4321",
+      "Address": "w",
+      "City": "Pune",
+      "Zip": "411035",
+      "State": "Maharashtra",
+      "image": "https://static.vecteezy.com/system/resources/previews/005/544/718/non_2x/profile-icon-design-free-vector.jpg",
+      "id": 2
+    },
+    {
+      "FName": "Gaurav",
+      "LastName": "Patil",
+      "Email": "g@gmail.com",
+      "Password": "4321",
+      "Address": "Pune",
+      "City": "Pune",
+      "Zip": "411035",
+      "State": "Maharashtra",
+      "image": "https://png.pngtree.com/png-vector/20191110/ourmid/pngtree-avatar-icon-profile-icon-member-login-vector-isolated-png-image_1978396.jpg",
+      "id": 3
+    },
+    {
+      "FName": "Tushar",
+      "LastName": "Patil",
+      "Email": "t@gmail.com",
+      "Password": "3456",
+      "Address": "Pune",
+      "City": "Pune",
+      "Zip": "411023",
+      "State": "Maharashtra",
+      "image": "https://static.vecteezy.com/system/resources/previews/005/544/718/non_2x/profile-icon-design-free-vector.jpg",
+      "id": 4
+    },
+    {
+      "FName": "Abhi",
+      "LastName": "Jadhav",
+      "Email": "abhi@gmail.com",
+      "Password": "211",
+      "Address": "Pune",
+      "City": "Pune",
+      "Zip": "411035",
+      "State": "Maharashtra",
+      "image": "https://png.pngtree.com/png-vector/20191110/ourmid/pngtree-avatar-icon-profile-icon-member-login-vector-isolated-png-image_1978396.jpg",
+      "id": 5
+    }
+  ]
+}
